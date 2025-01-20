@@ -11,7 +11,7 @@ I am passionate about building robust single-page applications and seamless full
 
 <img align="left" alt="HTML" aria-label="HTML" width="30px" style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" aria-label="CSS"width="30px" style="padding-right:10px;"
+<img align="left" alt="CSS" aria-label="CSS" width="30px" style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" aria-label="JavaScript" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
